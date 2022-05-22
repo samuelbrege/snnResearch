@@ -5,17 +5,17 @@ Main packages:
 brian2 - Spiking Neural Net simulator
 pyChrono - Physics simulator for creating behavioral data
 
-Areas of focus:
-PPC
-SUB
-RSC
-mEC
-CA1
+Brain areas of focus:
+PPC (Path),
+SUB (Path),
+RSC (Periodic - Path),
+mEC (Grid Cells - Location),
+CA1 (Place Cells - Location)
 
-Papers:
-Nitz 2006 - PPC
-Nitz 2017 - RSC
-Thousand Brains Theory
+Papers/Literature:
+Nitz 2006 - PPC,
+Nitz 2017 - RSC,
+Thousand Brains Theory in general
 
 Files:
 
