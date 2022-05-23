@@ -20,4 +20,7 @@ Thousand Brains Theory in general
 Files:
 
 sim.ipynb - Notebook used for simulating various arenas to generate behavioral data
+
 simKex.ipynb - Main notebook for generating behavioral data. Only has Kex arena, which is based off the arena from Nitz 2006 on the PPC. Called 'Kex' because it resembles the Scandinavian candy bar of the same name
+
+velocity_data.csv - Velocity behavioral data from sim/simKex
