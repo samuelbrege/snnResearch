@@ -21,7 +21,11 @@ Files:
 
 sim.ipynb - Notebook used for simulating various arenas to generate behavioral data
 
-simKex.ipynb - Main notebook for generating behavioral data. Only has Kex arena, which is based off the arena from Nitz 2006 on the PPC. Called 'Kex' because it resembles the Scandinavian candy bar of the same name
+simKex.ipynb - notebook for generating behavioral data. Only has Kex arena, which is based off the arena from Nitz 2006 on the PPC. Called 'Kex' because it resembles the Scandinavian candy bar of the same name
+
+simFood.ipynb - More advanced version of simKex, same arena but better movement system with smooth turning and rotation.
+
+simFoodRL.ipynb - Test version to allow movement through reinforcement learning, goal to make movement more natural.
 
 velocity_data.csv - Velocity behavioral data from sim/simKex
 
