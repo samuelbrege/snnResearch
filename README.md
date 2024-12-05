@@ -1,3 +1,6 @@
+Retired repo containing random code from experimentation into computational spatial cognition models. View at your own risk! Very unprofessional and likely would not make sense to anyone but myself...
+
+
 5/22/2022
 Repository for snn research on spatial cognition
 
